@@ -31,6 +31,8 @@ After that, I was afraid until the master asked for help and affixed the code Bu
 Copy code to a Inconspicuous place and comment that
 ~~~
 
+Notice：code03是一个道教的平安符,据说是最正宗的！
+
 ~~~
 复制到您的项目，然后注释掉他
 ~~~
